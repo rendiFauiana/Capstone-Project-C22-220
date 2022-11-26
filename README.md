@@ -1,2 +1,2 @@
-# bagian2
-bagian 2 project
+# Progress Project Capstone 
+Progress pengerjaan
