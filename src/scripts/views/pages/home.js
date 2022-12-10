@@ -53,7 +53,7 @@ const Home = {
               </p>
               <div class="tim">
                 <div>
-                  <img src="./images/home/tim2.png" />
+                  <img src="./images/home/tim1.png" />
                   <h6>Rendi Fauziana</h6>
                   <span>F295X0716</span>
                 </div>
