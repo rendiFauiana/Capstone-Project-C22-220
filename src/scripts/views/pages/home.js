@@ -36,14 +36,14 @@ const Home = {
             <div class="layar-dalam support" id="support"></div>
           </section>
           <section id="gallery">
-            <div><img src="./images/home/slidersumatera.png" /></div>
-            <div><img src="./images/home/slidersumatera2.png" /></div>
-            <div><img src="./images/home/sliderjawa.png" /></div>
-            <div><img src="./images/home/sliderjawa2.png" /></div>
-            <div><img src="./images/home/sliderkalimantan.png" /></div>
-            <div><img src="./images/home/sliderkalimantan2.png" /></div>
-            <div><img src="./images/home/sliderbalinusra.png" /></div>
-            <div><img src="./images/home/sliderpapua.png" /></div>
+            <div><img class ="lazyload" data-src="./images/home/slidersumatera.png" /></div>
+            <div><img class ="lazyload" data-src="./images/home/slidersumatera2.png" /></div>
+            <div><img class ="lazyload" data-src="./images/home/sliderjawa.png" /></div>
+            <div><img class ="lazyload" data-src="./images/home/sliderjawa2.png" /></div>
+            <div><img class ="lazyload" data-src="./images/home/sliderkalimantan.png" /></div>
+            <div><img class ="lazyload" data-src="./images/home/sliderkalimantan2.png" /></div>
+            <div><img class ="lazyload" data-src="./images/home/sliderbalinusra.png" /></div>
+            <div><img class ="lazyload" data-src="./images/home/sliderpapua.png" /></div>
           </section>
           <section id="team">
             <div class="layar-dalam">
@@ -53,22 +53,22 @@ const Home = {
               </p>
               <div class="tim">
                 <div>
-                  <img src="./images/home/tim1.png" />
+                  <img class ="lazyload" data-src="./images/home/tim1.png" />
                   <h6>Rendi Fauziana</h6>
                   <span>F295X0716</span>
                 </div>
                 <div>
-                  <img src="./images/home/tim2.png" />
+                  <img class ="lazyload" data-src="./images/home/tim2.png" />
                   <h6>Adri Faisal</h6>
                   <span>F506X1064</span>
                 </div>
                 <div>
-                  <img src="./images/home/tim3.png" />
+                  <img class ="lazyload" data-src="./images/home/tim3.png" />
                   <h6>Septario Ferintarozi</h6>
                   <span>F248X0540</span>
                 </div>
                 <div>
-                  <img src="./images/home/tasya.png" />
+                  <img class ="lazyload" data-src="./images/home/tasya.png" />
                   <h6>Natasya Aulianti</h6>
                   <span>F246Y0490</span>
                 </div>
