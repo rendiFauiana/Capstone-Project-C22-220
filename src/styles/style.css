@@ -558,6 +558,7 @@ a {
     border-bottom: 2px solid;
     overflow: auto;
     height: 200px;
+    margin-bottom: 50px;
 }
 
 .space {
