@@ -8,7 +8,7 @@ const createPulau = (pulau) => `
 
 const createBaju = (baju) => `
     <div>
-        <img src="${baju.gambar}" alt="${baju.nama}">
+        <img class ="lazyload" data-src="${baju.gambar}" alt="${baju.nama}">
         <a href="/#/detail/${baju.id}"><h4>${baju.nama}</h4></a>
         <p>${baju.deskripsi}</p>
     </div>
